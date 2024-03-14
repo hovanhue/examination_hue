@@ -732,8 +732,8 @@
   }
 }
 
-.inactive-language-light,
-.inactive-language-dark,
+
+.inactive-language,
 .active-language-light,
 .active-language-dark {
   text-transform: uppercase;
@@ -751,9 +751,9 @@
   color: #fff;
 }
 
-.inactive-language-light {
+.inactive-language {
   color: #474747;
 }
-.inactive-language-dark {
-  color: #61677a;
-}
+// .inactive-language-dark {
+//   color: #61677a;
+// }

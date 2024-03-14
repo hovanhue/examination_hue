@@ -20,7 +20,15 @@ function MainClient({ children }: IMainProps) {
   const pathname = usePathname();
   const dispatch = useAppDispatch();
   const { isModalAuthVisible } = useAppSelector((state) => state.authSlice);
-  const { resolvedTheme } = useTheme();
+  const { setTheme, resolvedTheme } = useTheme();
+
+  const test = localStorage.getItem('theme');
+
+  useEffect(() => {
+    if (!resolvedTheme) {
+      setTheme(test as string);
+    }
+  }, []);
 
   useEffect(() => {
     window.scrollTo(0, 0);
