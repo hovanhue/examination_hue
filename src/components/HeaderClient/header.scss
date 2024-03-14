@@ -367,12 +367,10 @@
           line-height: 35px;
           letter-spacing: 0.05rem;
           &-light {
-          color: #474747;
-
+            color: #474747;
           }
           &-dark {
-          color: #fff;
-
+            color: #fff;
           }
           &:hover {
             border-radius: 0px !important;
@@ -734,6 +732,8 @@
   }
 }
 
+.inactive-language-light,
+.inactive-language-dark,
 .active-language-light,
 .active-language-dark {
   text-transform: uppercase;
@@ -749,4 +749,11 @@
 }
 .active-language-dark {
   color: #fff;
+}
+
+.inactive-language-light {
+  color: #474747;
+}
+.inactive-language-dark {
+  color: #61677a;
 }

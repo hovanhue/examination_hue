@@ -205,7 +205,7 @@ export default function HeaderClient() {
                         ? 'active-language-dark'
                         : locale === 'vi' && resolvedTheme === ThemeMode.LIGHT
                         ? 'active-language-light'
-                        : 'inactive-language'
+                        : 'inactive-language-dark'
                     }`}
                     aria-hidden
                     onClick={() => handleChangeLanguage('vi')}
@@ -220,7 +220,7 @@ export default function HeaderClient() {
                         ? 'active-language-dark'
                         : locale === 'en' && resolvedTheme === ThemeMode.LIGHT
                         ? 'active-language-light'
-                        : 'inactive-language'
+                        : 'inactive-language-light'
                     }`}
                     aria-hidden
                     onClick={() => handleChangeLanguage('en')}
