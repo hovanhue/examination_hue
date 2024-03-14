@@ -1,0 +1,31 @@
+{
+  "common": {
+    "item": "test",
+    "systemNotfound": "Not found",
+    "itemHome": "Home",
+    "itemAboutUs": "About us",
+    "itemNewsAndPress": "News & Press",
+    "itemCatalogs": "Catalogs",
+    "itemFaqs": "Faqs",
+    "itemMoreBtn": "Read more",
+    "itemSearch": "Search by name",
+    "loginSuccess": "Login successfully",
+    "itemEmailAddress": "Email address",
+    "emailInvalid": "Email invalid.",
+    "errorInputEmailEmpty": "Email is required.",
+    "itemPassword": "Password",
+    "errorInputPasswordEmpty": "Enter password.",
+    "btnLogin": "Login",
+    "itemForgotPassword": "Forgot password",
+    "titleLogout": "Logout",
+    "desLogout": "Are you sure you want to sign out?",
+    "itemNo": "No",
+    "itemYes": "Yes",
+    "docNo": "No.",
+    "code": "Code",
+    "projectName": "Name",
+    "projectDomain": "Domain",
+    "action": "Action",
+    "listProducts": "List Products"
+  }
+}

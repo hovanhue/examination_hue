@@ -1,0 +1,12 @@
+@import '@/styles/variable.scss';
+
+.table-product {
+  &-light {
+  }
+  &-dark {
+    background-color: #999;
+    .ant-table-wrapper > tr > th {
+      background-color: #999 !important;
+    }
+  }
+}

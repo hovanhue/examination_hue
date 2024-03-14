@@ -1,0 +1,33 @@
+{
+  "common": {
+    "item": "common vi",
+    "systemNotfound": "Không tìm thấy nội dung",
+    "itemHome": "Trang chủ",
+    "itemAboutUs": "Về chúng tôi",
+    "itemNewsAndPress": "Tin tức & Nổi bật",
+    "itemCatalogs": "Loại sản phẩm",
+    "itemFaqs": "Faqs",
+    "itemMoreBtn": "Xem thêm",
+    "itemSearch": "Tìm kiếm theo tên dự án",
+    "loginSuccess": "Đăng nhập thành công",
+    "itemEmailAddress": "Địa chỉ email",
+    "emailInvalid": "Email không hợp lệ.",
+    "errorInputEmailEmpty": "Email không hợp lệ.",
+    "itemPassword": "Mật khẩu",
+    "errorInputPasswordEmpty": "Nhập mật khẩu.",
+    "btnLogin": "Đăng nhập",
+    "itemForgotPassword": "Quên mật khẩu",
+    "titleLogout": "Đăng xuất",
+    "desLogout": "Bạn có muốn đăng xuất không?",
+    "itemNo": "Không",
+    "itemYes": "Có",
+    "docNo": "STT",
+    "code": "Mã",
+    "projectName": "Tên",
+    "projectDomain": "Domain",
+    "action": "Thao tác",
+    "listProducts": "Danh sách sản phẩm"
+
+
+  }
+}
