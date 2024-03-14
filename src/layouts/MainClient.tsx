@@ -39,7 +39,7 @@ function MainClient({ children }: IMainProps) {
       <HeaderClient />
       <main
         style={{
-          backgroundColor: resolvedTheme === ThemeMode.DARK ? 'black' : 'white',
+          backgroundColor: test === ThemeMode.DARK ? 'black' : 'white',
           height: '90vh',
         }}
       >
